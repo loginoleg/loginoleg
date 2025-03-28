@@ -19,9 +19,9 @@ Currently looking for new opportunities and building my own tiny empire of apps 
 ---
 
 📬 **Reach out:**
-- 📧 Email: [your@email.com]
-- 💬 Telegram: [@yourhandle]
-- 💼 LinkedIn: [linkedin.com/in/yourprofile]
+- 📧 Email: [loginoleg@gmail.com]
+- 💬 Telegram: [https://t.me/loginoleg]
+- 💼 LinkedIn: [https://linkedin.com/in/loginoleg]
 
 ---
 

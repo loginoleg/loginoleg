@@ -1,27 +1,69 @@
 ### Hi there, I'm Oleg 👋
 
-I'm a **Senior iOS/macOS Developer**, a bit of a **Security Engineer**, and a passionate **Indie Hacker**.  
-Currently looking for new opportunities and building my own tiny empire of apps 🧪📱
+**Senior iOS/macOS Developer · Security Engineer · Indie Hacker**
+
+I'm a passionate software engineer with over 10 years of experience in building native iOS and macOS applications using **Swift**, **Objective-C**, and **C**.  
+Currently, I'm open to new job opportunities and also working on launching a series of indie apps.
 
 ---
 
-🛠️ **Tech I work with:**
-- `Swift` (my daily driver 🚗)
-- `Objective-C` (yes, still!)
-- `C` (when I'm feeling spicy 🌶️)
+## 🛠️ Core Skills
+
+- Swift · Objective-C · C
+- iOS and macOS development
+- UIKit · SwiftUI · CoreData
+- App architecture & performance optimization
+- Security & reverse engineering
+- App Store distribution & indie publishing
 
 ---
 
-🎯 **Current focus:**
-- Searching for a job where I can build cool stuff and not just fight with Jira
-- Launching a few indie apps (because why not break things for fun and profit)
+## 🧪 Projects
+
+Here are a few of my current and upcoming projects:
+
+### 🔐 [iBackupify](http://ibackupify.o2app.store/) (macOS app)  
+A macOS utility for viewing and extracting data from iPhone backups.  
+Designed for everyday users to recover messages, photos, contacts, and more.
+
+- Supports encrypted backups (if password is known)
+- User-friendly interface with powerful features
+- No iTunes needed
+
+🌍 [Website](http://ibackupify.o2app.store/) · 💻 [Mac App Store](https://apps.apple.com/ua/app/ibackupify/id6741688037?mt=12)
+
+---
+
+### 🌬️ Breather (iOS app)  
+A lightweight offline breathing app designed for quick relaxation and focus.
+
+- Multiple breathing techniques
+- Minimal UI, instant access
+- No account, no tracking, no distractions
+
+🚀 *Launching soon on the App Store*
+
+---
+
+### 🐟 Fishify (iOS app, AI-based)  
+Offline image recognition app to identify fish species using on-device AI.  
+Part of a future collection (Fishify, Dogify, Rockify...)
+
+🎯 *Prototype stage*
+
+---
+
+## 🚀 What I’m Working On
+
+- Building a suite of small, focused indie apps
+- Exploring AI/ML use cases for mobile apps
 
 ---
 
 📬 **Reach out:**
-- 📧 Email: [loginoleg@gmail.com]
-- 💬 Telegram: [https://t.me/loginoleg]
-- 💼 LinkedIn: [https://linkedin.com/in/loginoleg]
+- 📧 Email: loginoleg@gmail.com
+- 💬 Telegram: [@loginoleg](https://t.me/loginoleg)
+- 💼 LinkedIn: [linkedin.com/in/loginoleg](https://linkedin.com/in/loginoleg)
 
 ---
 

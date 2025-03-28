@@ -2,10 +2,10 @@
 
 **Senior iOS/macOS Developer · Security Engineer · Indie Hacker**
 
-[![LeetCode](https://badges.peiyuan.ch/leetcode/loginov/solved?logo=leetcode&label=LeetCode&style=flat-rounded&color=blue)](https://leetcode.com/loginov/)
-
 I'm a passionate software engineer with over 10 years of experience in building native iOS and macOS applications using **Swift**, **Objective-C**, and **C**.  
 Currently, I'm open to new job opportunities and also working on launching a series of indie apps. Want to talk about security, side projects, Swift weirdness, or how macOS is both beautiful *and* painful? Let’s connect.
+
+[![LeetCode](https://badges.peiyuan.ch/leetcode/loginov/solved?logo=leetcode&label=LeetCode&style=flat-rounded&color=blue)](https://leetcode.com/loginov/)
 
 
 ## 🛠️ Core Skills

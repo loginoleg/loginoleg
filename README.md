@@ -28,3 +28,5 @@ Currently, I'm open to new job opportunities and also working on launching a ser
 - 💼 LinkedIn: [linkedin.com/in/loginoleg](https://linkedin.com/in/loginoleg)
 
 Want to talk about security, side projects, Swift weirdness, or how macOS is both beautiful and painful? Let’s connect.
+-- 
+[![LeetCode](https://badges.peiyuan.ch/leetcode/loginov/solved?logo=leetcode&label=LeetCode&style=flat-rounded&color=blue)](https://leetcode.com/loginov/)
